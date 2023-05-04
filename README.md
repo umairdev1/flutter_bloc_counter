@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+Hey everyone, I wrote an article on how to use Flutter and the BLoC pattern to build a simple counter app! If you're interested in learning more about Flutter development or state management with BLoC, be sure to check it out.
+
+Artical Link: https://rb.gy/qswwm
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
